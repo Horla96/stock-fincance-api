@@ -40,30 +40,30 @@ namespace stock_fincance_api.Migrations
                     b.Property<int>("StockId")
                         .HasColumnType("int");
 
-                    b.Property<string>("StockId1")
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("StockId1");
+                    b.HasIndex("StockId");
 
                     b.ToTable("Comments");
                 });
 
             modelBuilder.Entity("stock_fincance_api.Models.Stock", b =>
                 {
-                    b.Property<string>("Id")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("CompanyName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Industtry")
+                    b.Property<string>("Industry")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -89,7 +89,9 @@ namespace stock_fincance_api.Migrations
                 {
                     b.HasOne("stock_fincance_api.Models.Stock", "Stock")
                         .WithMany("Comments")
-                        .HasForeignKey("StockId1");
+                        .HasForeignKey("StockId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Stock");
                 });

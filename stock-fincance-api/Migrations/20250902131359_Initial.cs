@@ -15,12 +15,13 @@ namespace stock_fincance_api.Migrations
                 name: "Stocks",
                 columns: table => new
                 {
-                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Symbol = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CompanyName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Purchase = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     LastDiv = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
-                    Industtry = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Industry = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     MarketType = table.Column<long>(type: "bigint", nullable: false)
                 },
                 constraints: table =>
@@ -37,23 +38,23 @@ namespace stock_fincance_api.Migrations
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Content = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedOn = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    StockId = table.Column<int>(type: "int", nullable: false),
-                    StockId1 = table.Column<string>(type: "nvarchar(450)", nullable: true)
+                    StockId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Comments", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Comments_Stocks_StockId1",
-                        column: x => x.StockId1,
+                        name: "FK_Comments_Stocks_StockId",
+                        column: x => x.StockId,
                         principalTable: "Stocks",
-                        principalColumn: "Id");
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Comments_StockId1",
+                name: "IX_Comments_StockId",
                 table: "Comments",
-                column: "StockId1");
+                column: "StockId");
         }
 
         /// <inheritdoc />
