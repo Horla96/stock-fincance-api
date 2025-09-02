@@ -19,5 +19,18 @@ namespace stock_fincance_api.Mappers
                 MarketType = stockModel.MarketType
             };
         }
+
+        public static Stock ToStockFromCreateDto(this CreateStockRequestDto createStockDto)
+        {
+            return new Stock
+            {
+                Symbol = createStockDto.Symbol,
+                CompanyName = createStockDto.CompanyName,
+                Purchase = createStockDto.Purchase,
+                LastDiv = createStockDto.LastDiv,
+                Industry = createStockDto.Industry,
+                MarketType = createStockDto.MarketType
+            };
+        }
     }
 }
