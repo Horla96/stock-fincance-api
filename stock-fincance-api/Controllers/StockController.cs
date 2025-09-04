@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using stock_finance_api.Repository;
 using stock_fincance_api.Data;
 using stock_fincance_api.Dtos.Stock;
+using stock_fincance_api.Helpers;
 using stock_fincance_api.Interfaces;
 using stock_fincance_api.Mappers;
 
@@ -23,14 +24,14 @@ namespace stock_fincance_api.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] QueryObject query)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
-            var stocks = await _stockRepo.GetAllAsync();
+            var stocks = await _stockRepo.GetAllAsync(query);
             var stockDto = stocks.Select(s => s.ToStockDto());
             return Ok(stocks);
         }
