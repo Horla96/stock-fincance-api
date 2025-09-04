@@ -1,4 +1,6 @@
 ﻿namespace stock_fincance_api.Dtos.Stock;
+
+using stock_fincance_api.Dtos.Comment;
 using System.ComponentModel.DataAnnotations.Schema;
 
 public class StockDto
@@ -10,5 +12,7 @@ public class StockDto
         public decimal LastDiv { get; set; }
         public string Industry { get; set; } = string.Empty;
         public long MarketType { get; set; }
+
+        public List<CommentDto> Comments { get; set; }
    
 };

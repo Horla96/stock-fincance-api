@@ -16,7 +16,9 @@ namespace stock_fincance_api.Mappers
                 Purchase = stockModel.Purchase,
                 LastDiv = stockModel.LastDiv,
                 Industry = stockModel.Industry,
-                MarketType = stockModel.MarketType
+                MarketType = stockModel.MarketType,
+
+                Comments = stockModel.Comments.Select(c => c.ToCommentDto()).ToList()
             };
         }
 
