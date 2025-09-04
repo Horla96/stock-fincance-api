@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stock-fincance-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4eba09c1f7362b9d69aabf1c7ba9e5a9dd0c43b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f802bc8af7c4a5567cbf2f5460e01d70e8d324b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("stock-fincance-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stock-fincance-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
