@@ -1,7 +1,11 @@
-﻿namespace stock_fincance_api.Models;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
+namespace stock_fincance_api.Models;
+
+[Table("Comments")]
 public class Comment
 {
+
     public int Id { get; set; }
     public string Title { get; set; } = string.Empty;
     public string Content { get; set; } = string.Empty;

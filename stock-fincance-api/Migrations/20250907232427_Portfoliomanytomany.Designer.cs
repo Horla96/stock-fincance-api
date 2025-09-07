@@ -12,8 +12,8 @@ using stock_fincance_api.Data;
 namespace stock_fincance_api.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250904232518_Identity")]
-    partial class Identity
+    [Migration("20250907232427_Portfoliomanytomany")]
+    partial class Portfoliomanytomany
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -50,6 +50,20 @@ namespace stock_fincance_api.Migrations
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
                     b.ToTable("AspNetRoles", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = "6976e2ae-1e4f-4fee-9cfe-95f41acd5019",
+                            Name = "Admin",
+                            NormalizedName = "ADMIN"
+                        },
+                        new
+                        {
+                            Id = "84a89ebd-ca1f-484f-8f59-cc64e6eb1d0f",
+                            Name = "User",
+                            NormalizedName = "USER"
+                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -252,6 +266,21 @@ namespace stock_fincance_api.Migrations
                     b.ToTable("Comments");
                 });
 
+            modelBuilder.Entity("stock_fincance_api.Models.Portfolio", b =>
+                {
+                    b.Property<string>("AppUserId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("StockId")
+                        .HasColumnType("int");
+
+                    b.HasKey("AppUserId", "StockId");
+
+                    b.HasIndex("StockId");
+
+                    b.ToTable("Portfolios");
+                });
+
             modelBuilder.Entity("stock_fincance_api.Models.Stock", b =>
                 {
                     b.Property<int>("Id")
@@ -348,9 +377,35 @@ namespace stock_fincance_api.Migrations
                     b.Navigation("Stock");
                 });
 
+            modelBuilder.Entity("stock_fincance_api.Models.Portfolio", b =>
+                {
+                    b.HasOne("stock_fincance_api.Models.AppUser", "AppUser")
+                        .WithMany("Portfolios")
+                        .HasForeignKey("AppUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("stock_fincance_api.Models.Stock", "Stock")
+                        .WithMany("Portfolios")
+                        .HasForeignKey("StockId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AppUser");
+
+                    b.Navigation("Stock");
+                });
+
+            modelBuilder.Entity("stock_fincance_api.Models.AppUser", b =>
+                {
+                    b.Navigation("Portfolios");
+                });
+
             modelBuilder.Entity("stock_fincance_api.Models.Stock", b =>
                 {
                     b.Navigation("Comments");
+
+                    b.Navigation("Portfolios");
                 });
 #pragma warning restore 612, 618
         }
