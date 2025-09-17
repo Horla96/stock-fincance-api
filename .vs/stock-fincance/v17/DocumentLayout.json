@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,14 +107,6 @@
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\dtos\\comment\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,20 +119,8 @@
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|solutionrelative:stock-fincance-api\\mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8A003BE-0C39-4519-8790-61FB70564F44}|stock-fincance-api\\stock-fincance-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\stock-fincance\\stock-fincance-api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,20 +166,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250917141020_CommentOneToOne.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
-              "RelativeToolTip": "stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "stock-fincance-api\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAywEsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T14:10:21.757Z",
+              "WhenOpened": "2025-09-03T10:49:20.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "stock-fincance-api\\Repository\\CommentRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwDAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:37:59.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "stock-fincance-api\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:14:55.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:31:33.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:15:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentMappers.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Mappers\\CommentMappers.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Mappers\\CommentMappers.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Mappers\\CommentMappers.cs",
+              "RelativeToolTip": "stock-fincance-api\\Mappers\\CommentMappers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:10:19.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\StockController.cs",
+              "RelativeToolTip": "stock-fincance-api\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:49:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PortfolioRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\PortfolioRepository.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Repository\\PortfolioRepository.cs",
@@ -192,7 +270,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "20250917141020_CommentOneToOne.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
+              "RelativeToolTip": "stock-fincance-api\\Migrations\\20250917141020_CommentOneToOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:10:21.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IPortfolioRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Interfaces\\IPortfolioRepository.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Interfaces\\IPortfolioRepository.cs",
@@ -205,20 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClaimsExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
-              "RelativeToolTip": "stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T11:31:27.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Controllers\\PortfolioController.cs",
@@ -231,33 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Models\\AppUser.cs",
-              "RelativeToolTip": "stock-fincance-api\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T22:54:51.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Program.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Program.cs",
-              "RelativeToolTip": "stock-fincance-api\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF4AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T00:09:27.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "IStockRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Interfaces\\IStockRepository.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Interfaces\\IStockRepository.cs",
@@ -270,20 +322,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StockRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\StockRepository.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Repository\\StockRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\StockRepository.cs",
-              "RelativeToolTip": "stock-fincance-api\\Repository\\StockRepository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAUwEkAAABWAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Program.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Program.cs",
+              "RelativeToolTip": "stock-fincance-api\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T22:14:55.31Z",
+              "WhenOpened": "2025-09-02T00:09:27.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "ClaimsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeToolTip": "stock-fincance-api\\Extensions\\ClaimsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:31:27.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "stock-fincance-api\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Models\\AppUser.cs",
+              "RelativeToolTip": "stock-fincance-api\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T22:54:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Models\\Comment.cs",
@@ -296,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\appsettings.json",
               "RelativeDocumentMoniker": "stock-fincance-api\\appsettings.json",
@@ -308,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "QueryObject.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Helpers\\QueryObject.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Helpers\\QueryObject.cs",
@@ -320,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Portfolio.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Models\\Portfolio.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Models\\Portfolio.cs",
@@ -332,20 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\StockController.cs",
-              "RelativeToolTip": "stock-fincance-api\\Controllers\\StockController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T12:49:48.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Stock.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Models\\Stock.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Models\\Stock.cs",
@@ -357,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Data\\ApplicationDbContext.cs",
@@ -369,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Controllers\\AccountController.cs",
@@ -381,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Interfaces\\ITokenService.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Interfaces\\ITokenService.cs",
@@ -393,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "NewUserDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Account\\NewUserDto.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Account\\NewUserDto.cs",
@@ -405,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Account\\LoginDto.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Account\\LoginDto.cs",
@@ -417,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Service\\TokenService.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Service\\TokenService.cs",
@@ -429,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\RegisterDto.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Comment\\RegisterDto.cs",
@@ -441,31 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "stock-fincance-api\\Controllers\\CommentController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAhwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T10:49:20.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Repository\\CommentRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Repository\\CommentRepository.cs",
-              "RelativeToolTip": "stock-fincance-api\\Repository\\CommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T10:37:59.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "UpdateCommentRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
@@ -478,30 +519,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "CommentDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
-              "RelativeToolTip": "stock-fincance-api\\Dtos\\Comment\\CommentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T13:31:33.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateCommentDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
-              "RelativeToolTip": "stock-fincance-api\\Dtos\\Comment\\CreateCommentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:15:24.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "CreateStockRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Dtos\\Stock\\CreateStockRequestDto.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Dtos\\Stock\\CreateStockRequestDto.cs",
@@ -514,18 +531,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "CommentMappers.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Mappers\\CommentMappers.cs",
-              "RelativeDocumentMoniker": "stock-fincance-api\\Mappers\\CommentMappers.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Mappers\\CommentMappers.cs",
-              "RelativeToolTip": "stock-fincance-api\\Mappers\\CommentMappers.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA8wB4AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T11:10:19.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "ICommentRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\stock-fincance\\stock-fincance-api\\Interfaces\\ICommentRepository.cs",
               "RelativeDocumentMoniker": "stock-fincance-api\\Interfaces\\ICommentRepository.cs",
